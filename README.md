@@ -1,5 +1,3 @@
-## **README.md for J2EE Customize Interceptors**
-
 # 🛡️ Customized Interceptors with Annotations in J2EE
 
 > Explore how to define and apply custom interceptors using CDI/EJB annotations to modularize cross-cutting concerns such as logging, validation, and security.
